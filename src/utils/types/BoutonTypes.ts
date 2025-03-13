@@ -1,0 +1,4 @@
+enum BoutonTypes {
+    deuxTrous,
+    troisTrous
+}
